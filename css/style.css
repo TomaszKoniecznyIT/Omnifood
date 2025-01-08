@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+html {
+  /* font-size: 10px; */
+  font-size: 62.5%;
+}
+
 body {
   font-family: sans-serif;
   line-height: 1;
@@ -17,7 +22,7 @@ body {
   background-color: red;
   padding: 100px;
 
-  max-width: 50 rem;
+  max-width: 50rem;
   padding: 4rem;
   font-size: 2rem;
   color: #fff;
